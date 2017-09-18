@@ -1,0 +1,4 @@
+.idea
+gradle-wrapper.properties
+webserver/build/
+webserver/npm-debug.log*
