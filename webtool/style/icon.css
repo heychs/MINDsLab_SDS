@@ -1,0 +1,88 @@
+/*
+.icon-delete_delete_file{
+	background: url('/imgs/delete.png') no-repeat;
+}
+
+.icon-download_data{
+	background: url('/imgs/fm/_down.png') no-repeat;
+}
+
+.icon-loading2{
+	background: url('/imgs/loadinfo.net.16px.gif') repeat;
+}
+
+*/
+
+
+
+.icon-ps{
+	background: url('/imgs/ps.small.png') no-repeat;
+}
+
+.icon-log{
+	background: url('/imgs/Files-icon.16px.png') no-repeat;
+}
+
+.icon-loading{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/loadinfo.net.16px.gif') repeat;
+}
+
+.icon-auth_code{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/System-Security-Firewall-ON-icon.16px.png') no-repeat;
+}
+
+.icon-workbench{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/Aluminium-utilities-icon.16px.png') no-repeat;
+}
+
+.icon-logout{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/delete-icon.16px.png') no-repeat;
+}
+
+.icon-get_request{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/Sign-Download-icon.16px.png') no-repeat;
+}
+
+.icon-lock{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/lock-icon.16px.png') no-repeat;
+}
+
+.icon-unlock{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/lock-off-icon.16px.png') no-repeat;
+}
+

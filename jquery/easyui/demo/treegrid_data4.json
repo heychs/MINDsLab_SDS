@@ -1,0 +1,5 @@
+{"total":4, "rows":[
+	{"id":1, "speaker":"U:", "utter":"The &lt;tour_name=value&gt; sounds great. @tour_name={\"Downtown Tour\", \"All Around Tour\"}"},
+	{"id":2, "speaker":"U:", "_parentId": 1, "utter": "Which tour goes to &lt;visiting_place=value&gt? @visiting_place={\"the Statue of Liberty\", \"the Metropolitan Museum Art\", \"Harlem Market\"}"},
+	{"id":3, "speaker":"U:", "_parentId": 2, "utter": ""}
+]}

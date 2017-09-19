@@ -1,0 +1,17 @@
+.res_west {width: 250px; padding: 2px; overflow: hidden;}
+
+.res_center {overflow: hidden; padding: 1px;}
+
+.res_wiki_editor {
+    width: 100%; 
+    height: 100%;
+}
+
+.icon-res_manager_upload_data{
+	background: url('/imgs/fm/_up.png') no-repeat;
+}
+
+.icon-res_manager_database{
+	background: url('/imgs/Places-server-database-icon.png') no-repeat;
+}
+

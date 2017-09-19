@@ -1,0 +1,45 @@
+.workbench_layout_main_top {
+    height: 120px; 
+    padding: 1px; 
+    overflow: hidden; 
+    text-align: left;
+}
+
+.workbench_panel_src {
+    width: 500px; 
+    padding: 2px; 
+    overflow: hidden;
+}
+
+.icon-workbench_translate{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/trans4.png') no-repeat;
+}
+
+.icon-workbench_change_engine_info {
+    background:url('/imgs/change_engine.png') no-repeat;
+}
+
+#workbench_src,
+#workbench_ref {
+    width: 100%; 
+    height: 100%;
+}
+
+.workbench_panel_ref,
+.workbench_panel_src {
+    overflow: hidden;
+}
+
+#workbench_result {
+    padding: 5px; 
+    overflow: hidden;
+}
+
+.icon-workbench_save_ref{
+	background:url('/jquery/easyui/themes/icons/filesave.png') no-repeat;
+}

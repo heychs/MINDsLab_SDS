@@ -1,0 +1,15 @@
+.icon-admin_delete_svn{
+	background: url('/imgs/delete_svn.png') no-repeat;
+}
+
+.icon-admin_cp_engine_service{
+	background: url('/imgs/change_engine.png') no-repeat;
+}
+
+.icon-admin_build_engine{
+	background: url('/imgs/build.png') no-repeat;
+}
+
+.icon-admin_svncheckout{
+	background: url('/imgs/svn_checkout.png') no-repeat;
+}

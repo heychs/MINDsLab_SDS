@@ -1,0 +1,283 @@
+.dialog_act_tagger_layout_main {
+    
+}
+
+.dialog_act_tagger_panel_main_north {
+    height: 250px; 
+    padding: 2px; 
+    overflow: hidden;
+}
+
+.dialog_act_tagger_panel_tagging_guide {
+    height: 200px; 
+    padding: 2px;
+    overflow: auto;
+}
+
+.dialog_act_tagger_extra_db {
+    padding: 2px;
+}
+
+.task_manager_style {
+    width: 100%; 
+    height: 100%; 
+    border: 0px;
+}
+
+.survey_window_frame_style {
+    width: 100%; 
+    height: 100%; 
+    border: 0px;
+    overflow: auto;
+}
+
+.dialog_act_tagger_task_manager {
+    width: 300px; 
+    padding: 2px;
+    overflow: hidden;
+}
+
+.dialog_act_tagger_panel_utter_list {
+    padding: 2px; 
+    overflow: hidden;
+}
+
+.dialog_act_tagger_layout_tagged_result {
+    padding: 2px; 
+    overflow: hidden;
+}
+
+.dialog_act_tagger_tagged_result {
+    padding: 2px; 
+}
+
+.dialog_act_tagger_slot_structure {
+    width: 200px; 
+    padding: 2px;
+    overflow: hidden;
+}
+
+.dialog_act_tagger_candidate {
+    padding: 2px;
+    height: 150px;
+}
+
+.db_record {
+    width: 100%;
+    background-color: white;
+    border: 1px dotted red; 
+    cursor: pointer;
+}
+
+.db_record:hover {
+    width: 100%;
+    background-color: #D0D0D0;
+    border: 1px dotted red; 
+    cursor: pointer;
+}
+
+.db_table_item {
+    width: 100%;
+    border: 1px dotted black; 
+    cursor: pointer;
+}
+
+.db_table_item:hover {
+    width: 100%;
+    background-color: #D0D0D0;
+    cursor: pointer;
+}
+
+.icon-delete_extra_db_record{
+	background: url('/imgs/delete.png') no-repeat;
+}
+
+.icon-new_extra_db_record{
+	background: url('/imgs/unknown-icon.png') no-repeat;
+}
+
+.icon-delete{
+	background: url('/imgs/delete.png') no-repeat;
+}
+
+.icon-delete_slot{
+	background: url('/imgs/delete.png') no-repeat;
+}
+
+.icon-new_slot{
+	background: url('/imgs/unknown-icon.png') no-repeat;
+}
+
+.icon-run_slot_tagging-add{
+	background: url('/jquery/easyui/themes/icons/edit_add.png') no-repeat;
+}
+
+.icon-run_slot_tagging-delete{
+	background: url('/jquery/easyui/themes/icons/edit_remove.png') no-repeat;
+}
+
+.icon-run_slot_tagging-a{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/trans_a.png') no-repeat;
+}
+
+.icon-run_slot_tagging-b{
+    width: 16px;
+    height: 16px;
+    opacity: 0.6;
+    margin-left: 2px;
+    display: inline-block;
+	background: url('/imgs/trans_b.png') no-repeat;
+}
+
+.icon-search_slot_candidate{
+	background:url('/jquery/easyui/themes/icons/search.png') no-repeat;
+}
+
+.icon-reset_slot_tagging{
+	background:url('/jquery/easyui/themes/icons/undo.png') no-repeat;
+}
+
+.icon-save_slot_tagger{
+	background:url('/jquery/easyui/themes/icons/filesave.png') no-repeat;
+}
+
+.icon-change_domain_slot_tagger{
+	background:url('/imgs/change_engine.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_edit_task_manager{
+	background:url('/imgs/Actions-mail-mark-task-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_edit_slot_structure{
+	background:url('/imgs/app-edit-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_build_slu{
+	background:url('/imgs/build.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_working_status{
+	background:url('/imgs/statistics-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_db{
+	background:url('/imgs/Places-server-database-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_upload{
+	background:url('/imgs/database-up-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_download{
+	background:url('/imgs/database-down-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_note{
+	background:url('/imgs/Actions-view-pim-notes-icon.png') no-repeat;
+}
+
+.icon-dialog_action_tagger_open_dialog_system{
+	background:url('/imgs/window-list-icon.png') no-repeat;
+}
+
+.icon-dialog_action_tagget_start_dialog_system{
+	background:url('/imgs/Button-Play-icon.png') no-repeat;
+}
+
+.icon-dialog_action_tagget_stop_dialog_system{
+	background:url('/imgs/Button-Stop-icon.png') no-repeat;
+}
+
+.icon-dialog_action_tagget_back_dialog_system{
+	background:url('/imgs/Button-Rewind-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_get_extra_db_table_list{
+	background:url('/imgs/Refresh-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_pagination-prev{
+    cursor: pointer;
+    width: 16px; 
+    height: 16px; 
+    display: inline-block;
+    overflow: hidden;
+	background:url('/jquery/easyui/themes/default/images/pagination_prev.gif') no-repeat;
+}
+
+.icon-dialog_act_tagger_pagination-next{
+    cursor: pointer;
+    width: 16px; 
+    height: 16px; 
+    display: inline-block;
+    overflow: hidden;
+	background:url('/jquery/easyui/themes/default/images/pagination_next.gif') no-repeat;
+}
+
+.icon-dialog_act_tagger_delete_record{
+	background:url('/imgs/delete-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_new_record{
+	background:url('/imgs/New-Folder-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_setup_record{
+	background:url('/imgs/Categories-preferences-other-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_open_deamon_log{
+	background:url('/imgs/file-extension-log-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_open_user_guide_win{
+	background:url('/imgs/Help-Info-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_eval_success{
+	background:url('/imgs/Action-ok-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_eval_fail{
+	background:url('/imgs/delete-icon.png') no-repeat;
+}
+
+.eval_recommend_info,
+.eval_paraphrase {
+	background-color: #F5F5F5;
+}
+
+.icon-dialog_act_tagger_page_up{
+	background:url('/imgs/Actions-go-up-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_page_down{
+	background:url('/imgs/Actions-go-down-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_lock{
+	background:url('/imgs/lock-icon.16px.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_unlock{
+	background:url('/imgs/lock-off-icon.16px.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_refresh_log{
+	background:url('/imgs/Actions-view-refresh-icon.png') no-repeat;
+}
+
+.icon-dialog_act_tagger_clear_log{
+	background:url('/imgs/Actions-edit-clear-icon (1).png') no-repeat;
+}
+
+.icon-dialog_act_tagger_log_statistics{
+	background:url('/imgs/statistics-icon.png') no-repeat;
+}
+

@@ -1,0 +1,110 @@
+* {
+    -webkit-text-size-adjust: none;
+    margin: 0;
+    padding: 0;
+    
+    word-wrap: break-word;
+    word-break: break-all;	
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.debug_textarea
+{
+    width: 100%;
+    height: 200px;
+}
+
+.fit
+{
+    width: 100%;
+    height: 100%;
+}
+
+li.folder
+{
+    list-style-image: url(../imgs/folder.gif);
+}
+
+li.file
+{
+    list-style-image: url(../imgs/file.gif);
+}
+
+/*	
+	html, body { margin:0; padding:0; height: 100%; overflow: hidden; font-size: 110%; }
+*/    
+#main_container { margin:0; padding:0; width: 100%; height: 100%; }
+
+#pane_bitext { margin:0; padding:0; height:60px; overflow:hidden; }
+#pane_pos_tagging { margin:0; padding:0; height:60px; overflow:hidden; }	
+
+#pane_dic { margin:0; padding:0; height:60px; overflow:hidden; }
+#pane_evaluation, #pane_file_manager, #pane_log { margin:0; padding:0; }
+#pane_ngram { margin:0; padding:0; }	
+#pane_corpus { margin:0; padding:0; }
+#pane_passwd { margin:0; padding:0; }	
+#pane_sent_eval { margin:0; padding:0; }		
+#pane_diff_dict { margin:0; padding:0; }
+#pane_deamon_log { margin:0; padding:0; }
+
+.tab_trac,
+.tab_workbench, 
+.tab_res_manager, 
+.tab_dialog_act_tagger, 
+.tab_dialog_act_tagger_guide, 
+.tab_admin { 
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+}
+
+.hide {
+    display: none;
+}
+
+.hand {
+    cursor: pointer;    
+}
+
+.hand:hover {
+    cursor: pointer;    
+    background-color: #D3D3D3;
+}
+
+.key, .val {
+    width: 100%;
+    height: 100%;
+}
+
+.deamon_log_content {
+    padding: 3px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+.deamon_log_result {
+    word-wrap: break-word; 
+    width: 100%; 
+    height: 100%;
+}
+
+.panel_margin {
+    height: 2px;    
+}
+
+#panel_engine_info {
+    height: 70px; 
+    padding: 2px;
+    overflow: hidden;
+}
+
+.web_workbench_main_layout_center {
+    padding: 1px;
+    overflow: hidden;
+}
